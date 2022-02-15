@@ -75,6 +75,7 @@ body {
   width: 320px; 
   margin: auto;
   margin-top: 10vh;
+  margin-bottom: 10vh;
   background: var(--bg-800);
 }
 
@@ -135,3 +136,13 @@ body {
   margin: 1.25rem 0 .5rem .1rem;
   font-size: .85rem;
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+  
