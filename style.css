@@ -61,6 +61,12 @@ body {
   color: var(--neutral);
 }
 
+.title,
+.text-light,
+.view-container
+{
+  cursor: pointer;
+}
 
 .title,
 .desc {
