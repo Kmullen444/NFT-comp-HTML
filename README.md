@@ -45,6 +45,7 @@ Users should be able to:
 - [W3schools](https://www.w3schools.com/cssref/default.asp) - References of CSS properties and examples.
 - [Markdown Guide](http://www.markdownguide.org/cheat-sheet) - Tables of Markdown syntax used for this README.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/css) - References of CSS properties and examples.
+- [Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - Examples of the different hover overlay through css
 
 
 ## Author
